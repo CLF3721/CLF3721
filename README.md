@@ -3,9 +3,14 @@
 <!--
 **CLF3721/CLF3721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[Linkedin](https://www.linkedin.com/in/clf3721/)
-Here are some ideas to get you started:
+[Linkedin]()
 
+<div align="center">
+    <!-- Replace href with your links -->
+    <a href="https://www.linkedin.com/in/clf3721/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
