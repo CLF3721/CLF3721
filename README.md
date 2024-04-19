@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <p>
-        <img src="https://tenor.com/view/snow-white-high-five-real-housewives-of-disney-seven-dwarves-gif-9515598" alt="snowwhite-7-dwarves-high-fives GIF"/>
+        <img src="https://media1.tenor.com/m/2X1Ja2sXqKMAAAAC/snow-white-high-five.gif" alt="snowwhite-7-dwarves-high-fives GIF"/>
     </p>
 </div>
 
