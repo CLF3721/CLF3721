@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=2500&color=ffb5d3&center=true&vCenter=true&width=435&lines=Hi!!!;I+made...;my+GitHub...;pretty!😁;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Unicorn+Confetti&size=40&duration=2500&color=ffb5d3&center=true&vCenter=true&width=435&lines=Hi!!!;I+made...;my+GitHub...;pretty!😁;" alt="Typing SVG"/>
     </h1>
     <h2>🚀 About Me</h2>
     <p>I'm a Data Scientist turned AI Engineer currently working in InsurTech.</p>
