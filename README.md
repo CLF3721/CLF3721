@@ -4,7 +4,7 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Birthstone+Bounce&size=40&duration=2500&color=ffb5d3&center=true&vCenter=true&width=435&lines=Hi!!!;I+made...;my+GitHub...;pretty!😁;" alt="Typing SVG"/>
     </h1>
-    <h2><font face = "lucida calligraphy" color = "#FF00FF">
+    <h2><font face = "lucida-calligraphy" color = "#FF00FF">
             🐿️About Me
         </font>
     </h2>
