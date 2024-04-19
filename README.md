@@ -3,7 +3,7 @@
 <!--
 **CLF3721/CLF3721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Linkedin](https://www.linkedin.com/in/clf3721/)]
+[Linkedin](https://www.linkedin.com/in/clf3721/)]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
